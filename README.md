@@ -10,6 +10,8 @@
 
 > Novix مشغّل فقط، وما فيه أي قنوات. تحتاج اشتراك أو قائمة تشغيل خاصة فيك.
 
+📺 تبي Novix للتلفزيون (Android TV و Google TV و Fire TV)؟ **[صفحة Novix للتلفزيون](https://github.com/ialaa-almehmadi/novix-releases)**
+
 ## 📱 طريقة التثبيت
 
 **١.** من الجوال افتح هذا الرابط:
